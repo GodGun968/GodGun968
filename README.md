@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🤔我的翻译不一定100%准确,但可以保证中国人可以看懂,看的较为流畅.  
+🤔我的翻译不一定100%准确，但可以保证中国人可以看懂，看的较为流畅。   
 😄欢迎基于我的翻译进行改进  
 🤔My translation is not necessarily 100% accurate, but it can be guaranteed that Chinese people can understand and read it fluently.  
 
