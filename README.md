@@ -4,7 +4,7 @@
 😄欢迎基于我的翻译进行改进  
 🤔My translation is not necessarily 100% accurate, but it can be guaranteed that Chinese people can understand and read it fluently.  
 
-[![GodGun968's GitHub stats](https://github-readme-stats.vercel.app/api?username=GodGun968)](https://github.com/anuraghazra/github-readme-stats)
+![GodGun968's GitHub stats](https://github-readme-stats.vercel.app/api?username=GodGun968&show_icons=true)
 
 <!--
 **GodGun968/GodGun968** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
