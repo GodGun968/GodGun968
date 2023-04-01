@@ -6,7 +6,7 @@
 😄I've been there all the time, If you want to update the Chinese language please feel free to @me
 
 ![GodGun968's GitHub stats](https://github-readme-stats.vercel.app/api?username=GodGun968&show_icons=true&locale=cn&theme=great-gatsby)
-
+![GodGun968](https://profile-counter.glitch.me/GodGun968/count.svg)
 <!--
 **GodGun968/GodGun968** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
