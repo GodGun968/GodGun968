@@ -8,6 +8,9 @@
 ![GodGun968's GitHub stats](https://github-readme-stats.vercel.app/api?username=GodGun968&show_icons=true&locale=cn&theme=great-gatsby)
 
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GodGun968&theme=cobalt&hide_border=true&locale=zh_Hans)
+
+
 ![GodGun968](https://profile-counter.glitch.me/GodGun968/count.svg)
 <!--
 **GodGun968/GodGun968** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
