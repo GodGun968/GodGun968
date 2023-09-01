@@ -4,7 +4,7 @@
 😄欢迎基于我的翻译进行改进  
 🤔My translation is not necessarily 100% accurate, but it can be guaranteed that Chinese people can understand and read it fluently.  
 😄I've been here all the time, If you want to update the Chinese Translation please feel free to @me  
-🫡I don't always check every mods' language file, so you have to @me to keep the translations up to date
+🫡I don't always check every projects' language file, so you have to @me to keep the translations up to date
 
 
 ![GodGun968's GitHub stats](https://github-readme-stats.vercel.app/api?username=GodGun968&show_icons=true&locale=cn&theme=great-gatsby)
