@@ -13,7 +13,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GodGun968&theme=cobalt&hide_border=true&locale=zh_Hans)
 
 
-![GodGun968](https://profile-counter.glitch.me/GodGun968/count.svg)
+![GodGun968](https://api.likepoems.com/counter/get/@godgun968))
 <!--
 **GodGun968/GodGun968** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
